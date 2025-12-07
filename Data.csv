@@ -1,0 +1,256 @@
+,record_id,user_id,role,education_level,ai_use_purpose,ai_use_frequency_per_week,session_count,avg_session_duration_min,tasks_completed,hints_requested,sentiment_label,sentiment_polarity,subjectivity,emotion_primary,pre_test_score,post_test_score,improvement,adaptive_difficulty_start,adaptive_difficulty_end,recommended_resources_count,perceived_usefulness,perceived_ease_of_use,trust_score,adoption_intention,satisfaction_score,ethical_concern_privacy,ethical_concern_plagiarism,time
+0,1,S439563,student,graduate,summarization,5,22,18,63,4,negative,-0.676,0.526,anxiety,66,67,1,1,4,8,2,3,3,2,2,3,5,1
+1,2,S229815,student,graduate,brainstorming,3,27,8,85,8,neutral,-0.09,0.311,anticipation,60,78,18,2,1,5,1,4,3,2,4,2,4,2
+2,3,S698951,student,undergraduate,note organization,0,21,10,82,15,neutral,0.024,0.448,neutral,61,72,11,2,3,4,2,2,3,5,3,3,5,3
+3,4,S414834,student,undergraduate,language translation,3,26,19,53,6,positive,0.289,0.609,joy,45,60,15,2,4,5,2,4,5,4,3,2,2,4
+4,5,S708064,student,undergraduate,concept explanation,2,17,26,50,8,positive,0.246,0.751,joy,86,100,14,2,3,9,4,2,4,5,4,2,3,5
+5,6,S328807,student,undergraduate,coding help,2,23,25,83,10,positive,0.26,0.625,anticipation,73,89,16,2,3,4,4,5,5,4,4,2,3,6
+6,7,S258647,student,K-12,language translation,3,15,20,45,13,negative,-0.753,0.502,fear,68,80,12,2,3,7,4,3,2,3,3,4,4,7
+7,8,S917857,student,professional-development,coding help,5,23,12,67,8,positive,0.278,0.717,anticipation,64,80,16,3,3,9,4,3,3,4,4,2,1,8
+8,9,S662685,student,K-12,brainstorming,3,16,6,62,5,positive,0.661,0.474,trust,72,80,8,1,2,5,4,3,4,3,4,1,3,9
+9,10,S251118,student,K-12,language translation,3,33,28,27,11,negative,-0.563,0.592,fear,82,89,7,1,3,12,1,3,4,2,3,3,3,10
+10,11,S275156,student,K-12,note organization,2,27,17,73,4,neutral,0.027,0.507,anticipation,64,75,11,3,1,8,3,4,3,4,3,2,2,11
+11,12,S928494,student,K-12,exam revision,3,24,24,60,5,negative,-0.344,0.825,sadness,81,79,-2,1,4,1,3,4,3,1,3,3,3,12
+12,13,S739906,student,graduate,summarization,2,31,19,70,6,negative,-0.268,0.852,anxiety,63,59,-4,2,3,6,3,2,2,3,2,5,4,13
+13,14,S278261,student,professional-development,exam revision,5,24,16,37,8,negative,-0.491,0.768,fear,75,73,-2,2,3,6,2,4,3,3,4,5,4,14
+14,15,S246014,student,K-12,proofreading,2,27,17,21,13,positive,0.42,0.52,trust,66,82,16,1,4,5,4,3,4,4,4,3,3,15
+15,16,S626017,student,K-12,note organization,4,22,12,55,10,positive,0.782,0.704,anticipation,83,99,16,1,3,11,4,3,4,4,5,3,4,16
+16,17,S605924,student,undergraduate,brainstorming,3,20,21,72,5,positive,0.232,0.449,optimism,60,59,-1,3,2,0,3,4,4,4,4,2,1,17
+17,18,S359685,student,undergraduate,note organization,4,29,17,79,4,negative,-0.32,0.562,fear,60,68,8,4,3,12,2,3,3,1,3,5,4,18
+18,19,S261949,student,graduate,writing feedback,2,35,10,29,5,positive,0.926,0.51,trust,49,69,20,2,2,5,5,3,3,4,5,3,2,19
+19,20,S433998,student,K-12,quiz practice,1,30,17,26,12,neutral,0.041,0.392,anticipation,76,80,4,2,3,4,2,3,2,3,2,3,3,20
+20,21,S290370,student,K-12,concept explanation,5,18,9,44,3,positive,0.889,0.685,surprise,57,71,14,3,4,4,5,5,4,2,4,3,1,21
+21,22,S187810,student,undergraduate,concept explanation,3,24,13,67,12,negative,-0.941,0.947,sadness,59,62,3,1,2,7,3,2,1,3,1,4,5,22
+22,23,S427147,student,undergraduate,concept explanation,2,17,9,77,7,positive,0.403,0.802,trust,73,90,17,2,2,4,1,3,4,4,4,2,3,23
+23,24,S781685,student,K-12,coding help,3,19,16,27,11,negative,-0.434,0.942,anger,66,70,4,4,4,6,3,2,3,3,1,5,3,24
+24,25,S158092,student,K-12,note organization,3,23,23,79,4,neutral,0.02,0.546,anticipation,44,49,5,3,2,5,4,1,3,2,3,3,2,25
+25,26,S424584,student,K-12,quiz practice,2,15,17,43,6,positive,0.409,0.728,anticipation,55,72,17,2,3,8,3,4,4,4,4,2,3,26
+26,27,S760256,student,K-12,writing feedback,5,20,21,49,11,neutral,0.053,0.56,anticipation,72,84,12,1,2,4,3,3,3,4,5,1,3,27
+27,28,S649199,student,undergraduate,exam revision,3,26,15,31,4,neutral,-0.083,0.221,neutral,76,88,12,2,2,7,3,4,3,3,3,2,4,28
+28,29,S103475,student,undergraduate,note organization,4,17,20,38,12,positive,0.25,0.768,surprise,78,88,10,3,2,5,4,4,4,4,3,3,4,29
+29,30,S401275,student,undergraduate,summarization,2,16,22,76,7,neutral,-0.049,0.572,anticipation,47,54,7,4,1,8,3,2,4,2,3,4,3,30
+30,31,S404985,student,undergraduate,language translation,1,13,10,22,14,positive,0.945,0.675,joy,62,67,5,1,2,5,3,5,3,3,4,4,4,31
+31,32,S320944,student,K-12,note organization,2,27,18,65,9,positive,0.299,0.81,optimism,52,56,4,2,2,11,4,3,4,4,4,3,1,32
+32,33,S814696,student,undergraduate,coding help,0,28,16,58,9,positive,0.291,0.566,optimism,63,79,16,1,3,4,3,4,4,2,3,3,4,33
+33,34,S717796,student,K-12,concept explanation,2,24,9,101,9,negative,-0.874,0.876,anger,78,83,5,3,3,5,3,3,4,2,2,5,5,34
+34,35,S761542,student,K-12,note organization,3,21,17,47,15,positive,0.237,0.766,joy,78,97,19,2,2,10,5,4,4,5,4,3,2,35
+35,36,S412236,student,K-12,coding help,1,29,20,90,6,neutral,-0.003,0.534,anticipation,66,66,0,1,1,8,2,4,4,3,4,3,4,36
+36,37,S674394,student,K-12,quiz practice,2,32,12,67,6,neutral,-0.052,0.329,anticipation,64,73,9,2,3,9,4,2,4,4,2,4,2,37
+37,38,S622343,student,K-12,note organization,4,24,17,77,7,positive,0.269,0.848,trust,74,79,5,2,1,6,5,4,5,3,3,2,3,38
+38,39,S176690,student,K-12,language translation,3,25,21,53,7,negative,-0.363,0.601,fear,84,83,-1,2,4,7,3,2,4,1,1,3,5,39
+39,40,S776861,student,undergraduate,note organization,3,24,10,62,8,neutral,-0.08,0.35,neutral,56,54,-2,1,2,7,3,3,2,3,2,3,4,40
+40,41,S431724,student,undergraduate,language translation,2,18,23,62,5,positive,0.385,0.88,surprise,23,34,11,3,4,4,4,4,5,3,4,2,3,41
+41,42,S337802,student,undergraduate,coding help,1,28,15,51,10,positive,0.349,0.799,anticipation,82,83,1,3,3,6,5,4,5,3,3,4,5,42
+42,43,S409259,student,K-12,exam revision,3,32,15,32,7,positive,0.564,0.855,trust,87,87,0,2,1,7,5,3,3,5,4,1,2,43
+43,44,S293047,student,K-12,summarization,0,31,13,74,11,negative,-0.703,0.583,fear,56,55,-1,3,2,7,1,4,2,1,2,4,5,44
+44,45,S184686,student,K-12,note organization,2,16,30,58,6,negative,-0.665,0.846,fear,50,46,-4,4,2,5,2,4,2,3,3,4,3,45
+45,46,S597585,student,K-12,coding help,3,37,17,39,2,positive,0.548,0.802,joy,68,78,10,2,3,2,5,4,4,4,5,3,2,46
+46,47,S823074,student,K-12,brainstorming,4,22,13,27,8,neutral,-0.095,0.317,neutral,51,53,2,3,3,10,3,3,3,3,4,3,3,47
+47,48,S910349,student,K-12,quiz practice,4,26,15,28,9,positive,0.259,0.499,surprise,69,81,12,2,2,6,4,4,4,4,4,3,2,48
+48,49,S175670,student,K-12,summarization,3,31,22,53,7,positive,0.33,0.466,anticipation,49,65,16,1,2,5,5,4,3,3,3,3,3,49
+49,50,S308865,student,K-12,proofreading,2,21,16,73,3,positive,0.341,0.432,surprise,66,87,21,3,2,8,3,4,5,5,2,3,4,50
+50,51,S342340,student,graduate,brainstorming,2,27,27,47,9,negative,-0.861,0.585,fear,65,56,-9,2,2,9,4,3,2,3,3,5,3,51
+51,52,S725105,student,undergraduate,brainstorming,1,11,21,55,5,positive,0.233,0.9,trust,55,63,8,1,2,5,5,4,3,3,5,3,3,52
+52,53,S619700,student,undergraduate,summarization,3,37,10,42,1,neutral,0.028,0.246,neutral,72,75,3,1,2,9,3,3,4,2,2,5,3,53
+53,54,S119097,student,graduate,proofreading,2,20,17,70,11,positive,0.353,0.403,anticipation,73,83,10,1,3,11,5,4,5,4,4,1,2,54
+54,55,S771787,student,graduate,exam revision,3,24,22,89,13,neutral,0.047,0.286,anticipation,61,62,1,1,2,7,4,3,3,3,3,3,5,55
+55,56,S145610,student,professional-development,brainstorming,4,19,12,45,8,neutral,-0.083,0.556,anticipation,83,95,12,3,4,10,4,4,3,2,3,5,3,56
+56,57,S519163,student,graduate,quiz practice,2,33,18,47,14,positive,0.928,0.808,trust,74,90,16,2,3,8,5,5,5,4,5,2,3,57
+57,58,S423183,student,undergraduate,quiz practice,3,23,13,54,3,positive,0.334,0.402,anticipation,70,83,13,1,3,10,5,5,4,4,4,3,5,58
+58,59,S551515,student,K-12,note organization,4,37,26,26,7,positive,0.23,0.465,joy,59,78,19,4,2,7,5,3,3,3,5,2,4,59
+59,60,S615763,student,K-12,proofreading,3,31,27,43,4,positive,0.658,0.526,optimism,71,76,5,1,3,7,3,4,4,5,2,4,3,60
+60,61,S348931,student,K-12,writing feedback,1,15,20,48,8,positive,0.71,0.848,optimism,78,87,9,2,3,9,5,5,4,4,5,3,3,61
+61,62,S661723,student,undergraduate,concept explanation,1,31,13,47,2,positive,0.633,0.58,optimism,58,70,12,1,2,6,3,3,3,3,5,2,3,62
+62,63,S427836,student,undergraduate,proofreading,4,17,18,47,3,positive,0.669,0.609,surprise,61,71,10,3,4,3,4,4,5,2,5,2,4,63
+63,64,S648498,student,K-12,exam revision,2,20,18,76,8,positive,0.353,0.712,trust,33,49,16,1,2,3,2,3,3,3,4,2,1,64
+64,65,S377075,student,professional-development,quiz practice,2,32,23,58,10,neutral,0.02,0.459,anticipation,78,92,14,4,2,6,5,5,4,1,3,1,4,65
+65,66,S916706,student,K-12,proofreading,3,26,17,79,6,positive,0.589,0.721,trust,80,95,15,2,3,7,3,5,4,4,5,3,2,66
+66,67,S106657,student,K-12,summarization,2,22,12,61,4,neutral,-0.065,0.698,anticipation,59,66,7,2,3,13,3,3,2,4,4,4,3,67
+67,68,S648661,student,professional-development,summarization,2,34,17,73,4,negative,-0.823,0.907,anxiety,85,93,8,3,2,6,3,3,3,2,3,5,2,68
+68,69,S980501,student,undergraduate,coding help,1,15,13,24,10,negative,-0.522,0.638,fear,67,67,0,1,2,7,3,2,3,1,4,1,4,69
+69,70,S461615,student,professional-development,brainstorming,1,31,9,88,1,positive,0.723,0.768,joy,94,100,6,2,3,13,5,2,5,4,3,3,2,70
+70,71,S136099,student,graduate,concept explanation,3,27,14,67,3,positive,0.273,0.779,trust,68,76,8,2,5,7,3,4,3,4,4,3,3,71
+71,72,S906603,student,professional-development,concept explanation,2,29,24,44,7,neutral,0.058,0.216,neutral,66,79,13,3,2,7,2,2,3,4,4,3,2,72
+72,73,S278647,student,K-12,concept explanation,3,24,20,58,10,neutral,-0.099,0.445,neutral,75,86,11,2,4,5,3,5,3,2,4,4,4,73
+73,74,S342774,student,undergraduate,language translation,3,28,16,43,14,neutral,0.026,0.378,neutral,60,63,3,2,5,9,3,3,4,4,2,4,3,74
+74,75,S497730,student,professional-development,language translation,2,23,22,87,8,positive,0.766,0.776,surprise,73,80,7,3,4,2,4,5,2,4,5,1,2,75
+75,76,S560113,student,undergraduate,proofreading,3,32,10,75,9,positive,0.682,0.748,anticipation,82,100,18,2,3,1,3,3,3,5,2,2,2,76
+76,77,S347687,student,K-12,summarization,1,36,18,85,12,positive,0.347,0.475,joy,53,53,0,4,2,3,5,4,3,4,4,3,3,77
+77,78,S586451,student,K-12,proofreading,2,23,21,61,12,positive,0.547,0.471,optimism,62,73,11,1,4,2,4,3,4,5,3,2,1,78
+78,79,S812608,student,K-12,coding help,4,22,8,43,13,positive,0.871,0.521,joy,86,100,14,1,3,11,3,4,3,3,5,3,3,79
+79,80,S443989,student,undergraduate,summarization,3,33,27,55,6,positive,0.363,0.758,surprise,51,69,18,2,1,6,4,5,5,3,3,2,2,80
+80,81,S931066,student,graduate,coding help,2,29,18,26,3,neutral,-0.058,0.542,anticipation,84,84,0,3,3,6,2,3,2,3,3,3,3,81
+81,82,S540975,student,undergraduate,exam revision,2,17,16,44,0,positive,0.428,0.6,trust,61,71,10,1,1,9,5,4,4,3,4,2,5,82
+82,83,S855713,student,K-12,coding help,2,30,8,34,5,positive,0.77,0.725,optimism,75,90,15,2,1,10,3,5,5,5,5,1,5,83
+83,84,S856851,student,undergraduate,concept explanation,3,32,12,54,3,positive,0.521,0.719,anticipation,62,74,12,2,4,8,4,4,5,3,5,1,2,84
+84,85,S763918,student,undergraduate,proofreading,3,24,36,102,1,negative,-0.762,0.546,anger,51,52,1,4,4,7,1,2,1,1,3,5,3,85
+85,86,S737919,student,professional-development,concept explanation,3,37,19,50,10,positive,0.598,0.771,trust,73,85,12,2,2,7,4,5,5,5,5,4,4,86
+86,87,S589783,student,graduate,proofreading,3,24,31,43,5,positive,0.65,0.767,surprise,53,66,13,3,4,6,3,4,5,4,4,3,4,87
+87,88,S477880,student,undergraduate,exam revision,2,16,14,53,0,positive,0.806,0.447,optimism,76,83,7,3,3,6,5,3,3,4,5,3,2,88
+88,89,S651066,student,undergraduate,concept explanation,3,30,30,52,8,positive,0.389,0.426,anticipation,58,61,3,2,4,3,3,3,5,3,5,2,3,89
+89,90,S446969,student,K-12,writing feedback,2,9,18,65,0,neutral,0.057,0.22,neutral,63,66,3,1,3,1,3,4,2,3,4,3,3,90
+90,91,S598129,student,undergraduate,note organization,1,27,17,67,1,negative,-0.487,0.782,sadness,81,81,0,3,1,3,2,2,2,3,3,4,4,91
+91,92,S542049,student,undergraduate,quiz practice,2,30,24,50,7,negative,-0.36,0.753,fear,55,58,3,3,1,7,2,1,3,2,3,3,5,92
+92,93,S157270,student,undergraduate,summarization,3,23,27,67,11,neutral,0.015,0.659,anticipation,82,76,-6,4,2,7,4,3,3,4,3,4,2,93
+93,94,S595129,student,K-12,coding help,1,17,20,123,9,positive,0.94,0.829,joy,63,74,11,3,4,3,5,4,5,2,3,3,1,94
+94,95,S483646,student,undergraduate,summarization,3,28,18,62,9,positive,0.732,0.63,surprise,72,81,9,2,5,10,5,4,3,4,4,3,2,95
+95,96,S427674,student,undergraduate,exam revision,0,22,22,100,12,positive,0.912,0.764,optimism,52,62,10,1,3,4,3,4,4,4,4,4,3,96
+96,97,S694350,student,K-12,exam revision,2,32,8,69,4,negative,-0.298,0.827,anger,54,56,2,4,2,9,3,2,4,2,1,3,3,97
+97,98,S345737,student,graduate,quiz practice,3,20,26,59,5,positive,0.318,0.86,anticipation,54,67,13,1,1,4,5,4,4,4,2,2,1,98
+98,99,S666211,student,undergraduate,proofreading,4,25,17,63,9,neutral,-0.038,0.229,neutral,69,77,8,2,1,8,5,4,3,4,3,4,3,99
+99,100,S344178,student,K-12,note organization,3,40,22,82,4,positive,0.642,0.495,surprise,56,67,11,3,3,10,4,5,5,3,5,2,4,100
+100,101,S617229,student,K-12,language translation,2,28,21,6,0,neutral,-0.037,0.215,neutral,67,72,5,3,3,3,3,3,3,3,3,2,2,101
+101,102,S917040,student,K-12,exam revision,0,41,12,40,3,negative,-0.76,0.517,fear,56,56,0,3,2,7,2,3,4,2,3,2,5,102
+102,103,S986681,student,graduate,coding help,3,35,3,56,7,negative,-0.757,0.754,anxiety,67,66,-1,2,3,7,2,3,2,3,2,2,5,103
+103,104,S368290,student,graduate,brainstorming,0,25,10,50,4,negative,-0.757,0.731,anxiety,65,62,-3,1,2,10,3,3,2,2,3,3,5,104
+104,105,S562715,student,undergraduate,quiz practice,2,28,14,46,8,positive,0.293,0.641,anticipation,70,83,13,1,2,6,2,5,4,4,3,3,2,105
+105,106,S885475,student,K-12,coding help,5,28,8,68,5,negative,-0.611,0.653,anxiety,57,57,0,2,2,9,3,2,1,2,3,5,5,106
+106,107,S251740,student,K-12,coding help,1,26,16,47,8,positive,0.219,0.685,trust,61,71,10,1,3,9,5,3,3,4,3,3,2,107
+107,108,S925863,student,undergraduate,language translation,3,16,15,58,13,negative,-0.757,0.591,anxiety,55,58,3,1,2,4,2,3,3,1,3,3,5,108
+108,109,S770888,student,K-12,quiz practice,3,26,16,54,7,positive,0.201,0.816,anticipation,55,71,16,2,3,6,5,3,5,3,4,3,4,109
+109,110,S646992,student,undergraduate,proofreading,1,13,9,36,4,neutral,0.078,0.565,neutral,62,73,11,3,2,8,4,4,3,2,4,5,3,110
+110,111,S868307,student,undergraduate,note organization,5,37,16,26,5,negative,-0.739,0.788,anger,60,64,4,1,5,13,2,1,2,3,4,5,4,111
+111,112,S836370,student,K-12,quiz practice,0,29,22,49,8,positive,0.927,0.436,anticipation,67,77,10,1,3,2,5,3,4,3,4,2,3,112
+112,113,S656280,student,graduate,proofreading,1,14,15,48,1,negative,-0.486,0.576,fear,55,47,-8,2,2,6,5,3,3,3,2,3,5,113
+113,114,S349946,student,undergraduate,summarization,4,5,16,48,5,neutral,-0.045,0.432,neutral,82,84,2,3,2,5,4,2,3,2,2,4,4,114
+114,115,S700667,student,undergraduate,brainstorming,1,17,32,43,4,negative,-0.43,0.769,sadness,72,69,-3,2,3,9,2,4,2,2,2,4,5,115
+115,116,S691842,student,graduate,coding help,3,20,18,44,5,negative,-0.706,0.566,anxiety,62,69,7,2,4,11,2,2,2,3,3,5,3,116
+116,117,S629294,student,undergraduate,coding help,4,32,32,57,7,negative,-0.475,0.864,sadness,43,40,-3,1,1,4,1,3,3,3,2,5,5,117
+117,118,S362753,student,K-12,proofreading,1,23,10,37,8,negative,-0.865,0.656,anger,63,73,10,4,3,6,2,3,3,2,3,4,5,118
+118,119,S237750,student,graduate,exam revision,4,37,16,30,1,positive,0.752,0.77,trust,61,64,3,1,2,3,5,5,4,4,3,3,2,119
+119,120,S418453,student,undergraduate,brainstorming,1,12,27,26,2,positive,0.342,0.673,trust,65,78,13,2,3,4,5,4,2,5,4,3,1,120
+120,121,S326640,student,K-12,writing feedback,1,21,13,73,1,neutral,-0.012,0.231,anticipation,67,67,0,3,2,5,5,3,4,2,3,3,3,121
+121,122,S312328,student,undergraduate,note organization,2,19,3,45,4,positive,0.402,0.715,anticipation,61,77,16,4,3,9,5,5,4,4,4,3,4,122
+122,123,S699742,student,K-12,exam revision,3,37,10,60,9,neutral,0.07,0.546,anticipation,73,71,-2,1,1,5,5,3,2,3,3,3,3,123
+123,124,S882004,student,graduate,language translation,1,22,22,61,12,positive,0.428,0.472,surprise,50,68,18,2,3,10,4,4,4,5,5,4,3,124
+124,125,S111211,student,K-12,language translation,2,43,17,63,5,positive,0.78,0.669,surprise,35,42,7,2,3,7,5,5,5,4,4,2,2,125
+125,126,S110883,student,undergraduate,summarization,4,17,17,60,0,positive,0.501,0.681,surprise,76,86,10,2,3,2,4,4,5,4,3,4,3,126
+126,127,S196723,student,K-12,summarization,3,29,14,66,6,negative,-0.867,0.903,fear,100,100,0,1,2,11,2,1,4,3,2,5,3,127
+127,128,S760705,student,undergraduate,exam revision,1,32,15,66,8,negative,-0.431,0.505,anxiety,78,80,2,1,4,5,3,3,4,2,1,4,5,128
+128,129,S906319,student,undergraduate,note organization,2,23,27,54,12,negative,-0.642,0.555,fear,68,62,-6,1,2,8,2,2,2,2,2,4,5,129
+129,130,S939173,student,K-12,quiz practice,3,20,18,85,10,positive,0.465,0.485,trust,65,69,4,1,2,6,3,3,4,2,2,3,3,130
+130,131,S515228,student,undergraduate,brainstorming,3,33,27,72,7,neutral,-0.055,0.28,neutral,96,100,4,3,2,8,1,3,1,3,4,3,5,131
+131,132,S508730,student,undergraduate,coding help,3,27,16,66,8,positive,0.217,0.834,anticipation,83,100,17,3,2,8,5,5,4,5,5,1,4,132
+132,133,S504328,student,K-12,summarization,3,29,15,61,10,positive,0.615,0.594,optimism,46,62,16,2,4,9,4,4,4,4,5,2,2,133
+133,134,S382767,student,undergraduate,note organization,2,16,13,63,1,positive,0.319,0.576,trust,49,65,16,2,3,3,3,4,5,4,3,3,4,134
+134,135,S840790,student,professional-development,exam revision,3,17,17,95,4,negative,-0.647,0.73,fear,71,69,-2,1,2,10,4,2,2,2,1,5,5,135
+135,136,S115729,student,K-12,proofreading,4,23,26,76,6,positive,0.251,0.857,joy,66,76,10,2,5,4,3,5,4,2,3,2,2,136
+136,137,S522972,student,graduate,concept explanation,3,33,17,60,5,positive,0.71,0.732,optimism,81,100,19,2,2,13,5,3,2,4,5,2,3,137
+137,138,S738495,student,undergraduate,coding help,2,31,26,34,7,positive,0.523,0.778,trust,64,72,8,1,4,7,5,5,4,5,4,3,3,138
+138,139,S802686,student,undergraduate,summarization,2,16,27,60,3,negative,-0.274,0.894,anger,36,38,2,3,4,10,2,3,1,3,3,4,4,139
+139,140,S512756,student,professional-development,concept explanation,3,27,27,38,13,positive,0.91,0.612,optimism,49,57,8,1,3,5,5,4,5,4,4,3,3,140
+140,141,S298491,student,K-12,concept explanation,2,18,13,60,11,positive,0.927,0.719,trust,74,86,12,3,2,8,5,5,5,4,4,2,4,141
+141,142,S819566,student,undergraduate,proofreading,2,17,15,62,0,neutral,0.003,0.423,neutral,47,59,12,2,3,2,5,4,4,2,4,4,3,142
+142,143,S223701,student,undergraduate,writing feedback,2,23,22,53,7,neutral,0.068,0.403,anticipation,46,43,-3,3,4,9,5,3,3,4,3,5,2,143
+143,144,S423922,student,K-12,quiz practice,2,24,14,72,0,positive,0.472,0.484,surprise,83,100,17,2,4,14,4,5,4,5,4,2,3,144
+144,145,S612065,student,K-12,brainstorming,2,33,23,49,9,positive,0.683,0.714,joy,68,79,11,3,3,7,2,5,3,4,5,4,2,145
+145,146,S769097,student,undergraduate,summarization,1,29,16,63,3,neutral,0.048,0.363,anticipation,83,98,15,1,2,5,4,2,3,3,2,4,2,146
+146,147,S694405,student,graduate,brainstorming,1,21,22,51,5,negative,-0.633,0.829,sadness,74,74,0,2,2,8,5,2,3,2,2,5,5,147
+147,148,S141883,student,graduate,proofreading,3,23,13,63,7,neutral,-0.094,0.505,neutral,59,69,10,1,2,9,3,4,2,4,2,5,4,148
+148,149,S109225,student,undergraduate,writing feedback,3,37,20,47,14,positive,0.532,0.682,joy,72,92,20,2,4,4,3,3,5,2,3,1,3,149
+149,150,S738661,student,undergraduate,quiz practice,3,21,23,64,13,neutral,0.013,0.411,anticipation,81,83,2,2,3,8,4,3,4,3,4,3,3,150
+150,151,S254054,student,undergraduate,exam revision,4,33,26,70,7,negative,-0.553,0.754,anger,70,73,3,1,2,12,3,1,3,3,2,5,5,151
+151,152,S802796,student,K-12,note organization,4,25,21,74,10,positive,0.63,0.457,surprise,58,72,14,2,3,4,4,4,4,4,3,4,4,152
+152,153,S893667,student,graduate,summarization,1,26,13,50,12,positive,0.608,0.884,anticipation,75,99,24,2,2,7,2,5,4,5,4,2,3,153
+153,154,S723176,student,professional-development,summarization,2,23,20,36,14,neutral,0.082,0.244,anticipation,52,63,11,2,2,8,3,3,3,3,3,3,3,154
+154,155,S228683,student,K-12,quiz practice,4,17,14,44,4,neutral,0.063,0.377,neutral,47,51,4,2,3,2,4,4,3,2,2,5,5,155
+155,156,S709613,student,K-12,language translation,3,19,25,59,14,positive,0.339,0.677,optimism,58,72,14,2,4,5,5,4,3,5,4,1,3,156
+156,157,S607478,student,graduate,summarization,3,27,30,44,7,positive,0.494,0.638,surprise,42,45,3,2,3,6,5,5,5,4,4,2,3,157
+157,158,S717845,student,undergraduate,quiz practice,3,22,3,44,18,neutral,0.015,0.394,anticipation,64,66,2,2,4,7,3,2,3,2,3,5,4,158
+158,159,S252912,student,undergraduate,coding help,2,19,9,63,10,positive,0.944,0.578,surprise,76,89,13,1,1,10,3,5,2,3,3,3,3,159
+159,160,S395261,student,undergraduate,summarization,2,30,10,46,3,positive,0.755,0.654,optimism,57,65,8,2,5,2,4,4,4,5,3,3,2,160
+160,161,S355246,student,graduate,writing feedback,3,27,19,45,0,positive,0.504,0.598,anticipation,50,66,16,2,4,2,5,5,2,4,5,2,4,161
+161,162,S457005,student,K-12,summarization,3,31,15,41,6,neutral,0.016,0.694,anticipation,60,62,2,1,4,5,2,2,4,1,3,4,4,162
+162,163,S348409,student,undergraduate,coding help,2,20,18,58,13,positive,0.412,0.651,surprise,66,75,9,1,3,7,5,4,5,5,3,2,2,163
+163,164,S383778,student,undergraduate,quiz practice,2,20,22,68,12,negative,-0.709,0.89,fear,69,69,0,3,1,7,2,4,1,3,3,4,4,164
+164,165,S618373,student,professional-development,language translation,3,35,27,56,14,negative,-0.256,0.754,anxiety,56,60,4,3,2,7,2,4,2,1,1,4,4,165
+165,166,S981440,student,K-12,coding help,3,20,22,46,7,positive,0.849,0.477,surprise,79,90,11,1,4,6,4,5,3,5,4,5,1,166
+166,167,S575173,student,undergraduate,note organization,3,28,24,48,5,negative,-0.76,0.751,fear,85,85,0,2,2,8,1,2,3,3,3,4,5,167
+167,168,S314893,student,undergraduate,exam revision,2,34,14,54,2,positive,0.877,0.835,trust,51,68,17,2,1,6,4,3,4,4,4,3,2,168
+168,169,S507925,student,undergraduate,summarization,4,24,16,79,9,neutral,-0.087,0.523,neutral,60,65,5,2,1,8,3,2,2,4,2,5,2,169
+169,170,S121773,student,K-12,proofreading,3,8,17,46,9,positive,0.769,0.721,optimism,68,77,9,4,4,4,4,1,3,5,3,3,2,170
+170,171,S609137,student,graduate,quiz practice,3,26,17,72,14,neutral,-0.058,0.226,anticipation,76,72,-4,2,2,3,2,3,3,3,2,3,4,171
+171,172,S109883,student,K-12,note organization,2,28,14,26,7,neutral,0.05,0.432,neutral,77,98,21,1,2,4,3,2,3,4,2,3,5,172
+172,173,S629301,student,undergraduate,summarization,3,14,30,42,8,neutral,0.098,0.358,neutral,59,61,2,1,3,4,2,3,3,1,4,3,4,173
+173,174,S874070,student,undergraduate,quiz practice,4,27,20,47,5,negative,-0.688,0.597,anxiety,38,38,0,2,1,7,4,3,4,2,2,4,4,174
+174,175,S527947,student,undergraduate,brainstorming,1,32,18,43,8,positive,0.69,0.672,joy,63,78,15,4,2,3,5,5,3,3,3,3,3,175
+175,176,S529887,student,graduate,proofreading,2,31,12,44,2,neutral,0.039,0.565,anticipation,84,96,12,3,2,10,3,4,4,3,3,2,3,176
+176,177,S777614,student,K-12,language translation,2,17,18,78,5,negative,-0.595,0.791,anxiety,52,49,-3,2,4,7,3,2,3,3,2,4,3,177
+177,178,S379350,student,undergraduate,summarization,3,35,20,64,8,neutral,0.085,0.583,neutral,56,57,1,2,3,6,4,4,4,4,3,3,2,178
+178,179,S314791,student,undergraduate,proofreading,4,21,15,88,3,neutral,0.064,0.43,neutral,57,62,5,2,3,7,4,3,4,3,4,4,2,179
+179,180,S482493,student,K-12,note organization,2,27,6,1,9,positive,0.406,0.545,joy,56,72,16,2,3,5,4,3,3,5,4,3,3,180
+180,181,S349172,student,undergraduate,coding help,2,19,22,40,9,positive,0.351,0.685,surprise,44,57,13,2,2,2,4,4,3,3,5,2,2,181
+181,182,S617358,student,graduate,coding help,3,25,13,71,6,negative,-0.487,0.667,anger,78,76,-2,2,3,8,3,3,3,3,3,4,5,182
+182,183,S469468,student,K-12,writing feedback,1,31,12,65,13,negative,-0.217,0.883,fear,50,62,12,1,2,7,2,4,3,1,1,3,4,183
+183,184,S774227,student,undergraduate,exam revision,1,20,21,38,9,neutral,0.04,0.418,anticipation,46,57,11,3,2,0,2,4,3,4,2,2,3,184
+184,185,S521189,student,undergraduate,note organization,4,24,11,60,8,positive,0.777,0.459,anticipation,72,82,10,1,3,0,4,5,4,3,3,4,2,185
+185,186,S309543,student,undergraduate,note organization,2,27,14,56,13,neutral,0.069,0.27,anticipation,58,75,17,2,3,9,4,4,4,3,4,3,3,186
+186,187,S375086,student,K-12,concept explanation,4,30,17,56,10,neutral,0.036,0.353,anticipation,92,97,5,1,2,8,3,3,4,4,3,3,3,187
+187,188,S586774,student,undergraduate,writing feedback,2,23,9,61,7,positive,0.35,0.86,optimism,58,70,12,2,2,5,3,5,2,4,5,2,2,188
+188,189,S560437,student,K-12,exam revision,1,13,24,50,3,neutral,0.087,0.422,anticipation,55,61,6,2,2,8,2,3,3,2,3,2,5,189
+189,190,S856314,student,undergraduate,language translation,2,29,11,33,6,positive,0.801,0.667,optimism,58,66,8,2,4,12,5,4,5,5,3,2,2,190
+190,191,S370102,student,undergraduate,writing feedback,5,23,15,77,6,negative,-0.919,0.876,fear,60,64,4,2,1,2,3,1,4,2,3,4,2,191
+191,192,S259276,student,graduate,coding help,1,17,18,79,6,negative,-0.665,0.788,anger,63,53,-10,2,2,5,3,4,2,3,1,4,4,192
+192,193,S219928,student,K-12,proofreading,0,26,12,70,8,negative,-0.732,0.657,anxiety,64,74,10,2,2,6,3,2,3,3,2,2,5,193
+193,194,S593308,student,K-12,exam revision,4,30,22,85,8,negative,-0.515,0.545,anxiety,86,86,0,1,2,5,3,4,3,3,4,5,4,194
+194,195,S481735,student,K-12,summarization,2,40,11,22,0,neutral,-0.081,0.476,anticipation,81,78,-3,2,2,10,2,3,3,4,3,3,3,195
+195,196,S238379,student,K-12,summarization,4,32,15,64,1,positive,0.47,0.731,trust,66,72,6,2,4,13,4,4,3,5,4,3,4,196
+196,197,S383607,student,undergraduate,language translation,3,23,22,42,0,positive,0.602,0.653,surprise,81,100,19,3,2,0,3,4,3,5,3,3,3,197
+197,198,S199608,student,K-12,exam revision,3,15,17,59,6,positive,0.265,0.486,trust,46,54,8,1,3,9,4,4,4,4,2,3,3,198
+198,199,S355390,student,undergraduate,brainstorming,2,30,8,55,6,negative,-0.501,0.942,anxiety,71,73,2,4,1,2,2,3,2,2,1,3,3,199
+199,200,S133805,student,K-12,note organization,4,19,34,73,6,neutral,0.06,0.585,neutral,76,87,11,1,1,11,2,4,4,2,4,4,4,200
+200,201,S887964,student,undergraduate,brainstorming,2,28,19,50,14,negative,-0.881,0.823,sadness,78,88,10,2,4,3,2,4,2,2,3,3,4,201
+201,202,S504566,student,graduate,concept explanation,3,23,10,86,9,neutral,-0.086,0.592,neutral,50,52,2,1,1,1,2,4,4,3,4,4,2,202
+202,203,S921917,student,K-12,coding help,1,27,21,74,2,positive,0.371,0.736,joy,37,60,23,2,4,6,3,5,4,5,4,2,3,203
+203,204,S734133,student,K-12,note organization,4,20,18,76,2,positive,0.495,0.633,optimism,60,72,12,3,3,4,5,3,4,4,4,3,4,204
+204,205,S757612,student,K-12,coding help,1,29,16,49,8,positive,0.472,0.512,trust,82,92,10,2,2,6,4,3,4,4,5,2,4,205
+205,206,S100369,student,graduate,language translation,4,32,21,57,5,neutral,0.047,0.538,anticipation,65,71,6,2,4,13,4,4,3,1,3,3,5,206
+206,207,S410204,student,K-12,note organization,5,28,26,76,9,negative,-0.27,0.724,anxiety,78,82,4,4,2,0,3,4,4,2,3,3,5,207
+207,208,S136812,student,graduate,brainstorming,2,18,24,34,2,negative,-0.842,0.764,anger,77,79,2,1,4,3,2,3,5,3,3,4,5,208
+208,209,S674839,student,professional-development,coding help,1,26,14,38,9,positive,0.718,0.539,optimism,81,96,15,2,4,3,4,4,4,4,4,2,3,209
+209,210,S645797,student,K-12,exam revision,3,13,25,65,9,positive,0.783,0.58,anticipation,52,61,9,2,4,9,5,4,2,3,4,3,1,210
+210,211,S435152,student,K-12,summarization,2,26,14,53,17,positive,0.538,0.819,surprise,66,90,24,2,2,8,4,4,2,4,3,4,3,211
+211,212,S852144,student,graduate,summarization,2,18,18,49,4,positive,0.231,0.813,joy,92,100,8,3,4,8,5,4,5,5,4,3,2,212
+212,213,S846364,student,K-12,writing feedback,2,21,19,79,4,negative,-0.369,0.678,anxiety,57,54,-3,2,3,6,3,1,3,3,2,3,5,213
+213,214,S533732,student,undergraduate,writing feedback,2,38,14,53,6,positive,0.893,0.433,joy,67,68,1,3,3,6,4,4,4,4,4,3,2,214
+214,215,S812550,student,undergraduate,writing feedback,2,23,15,32,4,positive,0.575,0.849,trust,71,87,16,2,1,2,4,5,5,4,4,2,4,215
+215,216,S334741,student,K-12,summarization,3,19,23,70,0,positive,0.254,0.819,surprise,57,75,18,3,2,7,5,4,3,4,5,3,2,216
+216,217,S133832,student,K-12,summarization,5,27,9,50,0,positive,0.672,0.57,optimism,56,67,11,4,3,8,5,4,3,5,4,4,4,217
+217,218,S281443,student,K-12,coding help,1,23,15,49,9,positive,0.743,0.692,optimism,64,71,7,4,4,7,3,3,3,3,3,3,3,218
+218,219,S601090,student,undergraduate,exam revision,3,19,20,91,9,positive,0.662,0.456,optimism,61,89,28,2,2,9,4,4,5,4,3,3,3,219
+219,220,S892246,student,undergraduate,exam revision,1,23,24,61,11,neutral,-0.029,0.409,neutral,65,67,2,2,3,7,1,2,3,4,2,3,2,220
+220,221,S146390,student,undergraduate,coding help,1,27,18,48,3,negative,-0.37,0.654,sadness,67,69,2,2,3,6,3,3,4,4,3,3,5,221
+221,222,S632610,student,K-12,brainstorming,2,36,9,49,14,negative,-0.417,0.925,fear,66,72,6,3,2,9,2,3,5,2,3,3,5,222
+222,223,S128944,student,K-12,language translation,1,21,14,40,2,neutral,0.078,0.467,neutral,62,65,3,2,2,4,3,3,2,3,3,4,4,223
+223,224,S471815,student,K-12,exam revision,3,32,14,79,8,negative,-0.62,0.757,fear,59,63,4,1,5,7,1,2,2,2,3,5,5,224
+224,225,S592375,student,undergraduate,writing feedback,3,19,24,77,0,positive,0.649,0.431,anticipation,58,68,10,1,4,8,4,3,2,3,3,2,1,225
+225,226,S151045,student,K-12,brainstorming,1,23,19,46,7,negative,-0.753,0.569,sadness,64,65,1,3,2,7,1,4,3,3,3,4,3,226
+226,227,S500158,student,graduate,brainstorming,3,35,3,86,4,neutral,0,0.51,neutral,72,73,1,2,4,6,5,3,4,3,3,3,4,227
+227,228,S318663,student,K-12,language translation,4,26,10,45,2,positive,0.704,0.892,trust,72,84,12,1,2,9,5,3,4,4,4,3,4,228
+228,229,S417428,student,K-12,language translation,1,32,17,67,9,neutral,0.054,0.203,anticipation,69,74,5,2,3,8,2,4,4,4,3,2,4,229
+229,230,S895452,student,undergraduate,brainstorming,3,35,12,51,5,negative,-0.447,0.561,anxiety,62,54,-8,2,2,5,4,2,2,3,2,5,4,230
+230,231,S129730,student,K-12,language translation,2,21,18,52,8,positive,0.772,0.818,anticipation,57,72,15,1,2,6,3,4,4,3,2,4,2,231
+231,232,S955709,student,K-12,quiz practice,2,21,27,52,0,neutral,-0.079,0.613,neutral,72,72,0,3,2,10,4,3,4,5,3,4,4,232
+232,233,S664560,student,K-12,note organization,3,17,12,80,8,neutral,0.03,0.309,neutral,58,74,16,3,4,4,3,5,1,2,2,4,4,233
+233,234,S882264,student,K-12,quiz practice,3,27,18,77,22,positive,0.269,0.833,joy,72,91,19,2,4,7,4,4,3,4,3,1,4,234
+234,235,S177016,student,K-12,summarization,3,32,21,30,8,neutral,0.084,0.425,anticipation,53,54,1,2,3,7,3,3,3,4,5,4,3,235
+235,236,S972715,student,K-12,summarization,3,32,24,78,12,negative,-0.447,0.625,anger,71,71,0,1,3,8,2,3,2,2,4,4,5,236
+236,237,S604775,student,K-12,concept explanation,2,21,18,99,7,neutral,-0.088,0.348,neutral,73,66,-7,3,1,6,4,3,4,3,3,3,4,237
+237,238,S274305,student,undergraduate,writing feedback,3,25,12,25,8,positive,0.899,0.415,anticipation,63,76,13,3,4,4,4,4,4,2,3,3,3,238
+238,239,S346219,student,K-12,language translation,2,16,26,55,6,positive,0.616,0.646,anticipation,73,89,16,2,2,5,5,4,4,2,4,2,2,239
+239,240,S565481,student,undergraduate,note organization,0,22,27,60,5,positive,0.367,0.772,surprise,55,58,3,2,2,5,5,5,4,2,3,4,2,240
+240,241,S187115,student,undergraduate,writing feedback,4,25,23,47,3,positive,0.673,0.449,anticipation,51,71,20,2,2,9,3,4,4,4,4,2,1,241
+241,242,S774825,student,undergraduate,note organization,3,25,16,64,10,neutral,0.033,0.27,anticipation,68,82,14,4,3,5,2,4,1,5,4,3,4,242
+242,243,S858931,student,K-12,concept explanation,1,17,22,36,8,positive,0.829,0.552,trust,63,84,21,2,4,9,3,3,2,4,1,2,1,243
+243,244,S636506,student,graduate,proofreading,2,30,12,45,5,neutral,-0.062,0.435,neutral,69,66,-3,2,2,3,2,4,4,3,2,3,2,244
+244,245,S907435,student,K-12,writing feedback,0,22,14,32,2,neutral,0.021,0.438,anticipation,70,72,2,1,5,1,3,2,4,3,4,3,3,245
+245,246,S241832,student,undergraduate,writing feedback,4,25,16,51,4,positive,0.26,0.81,trust,69,90,21,4,3,8,5,3,5,4,2,3,2,246
+246,247,S403708,student,K-12,writing feedback,3,30,15,59,13,positive,0.483,0.55,surprise,45,45,0,2,2,12,5,4,4,2,3,2,3,247
+247,248,S685430,student,K-12,concept explanation,2,26,21,41,5,neutral,0.072,0.678,neutral,51,63,12,1,3,9,1,3,4,2,2,3,4,248
+248,249,S322648,student,undergraduate,language translation,3,20,9,26,8,positive,0.549,0.562,trust,34,41,7,3,1,5,4,4,2,4,4,3,1,249
+249,250,S477150,student,K-12,writing feedback,3,19,16,38,15,negative,-0.291,0.551,fear,65,79,14,1,2,11,2,3,4,2,2,4,5,250
+250,251,S838654,student,undergraduate,language translation,3,34,15,45,3,neutral,-0.021,0.259,neutral,60,61,1,2,2,4,3,4,3,2,4,4,3,251
+251,252,S167875,student,undergraduate,brainstorming,2,12,8,53,13,positive,0.647,0.606,joy,90,100,10,2,3,2,4,3,4,5,5,3,3,252
+252,253,S845641,student,undergraduate,brainstorming,0,20,26,75,10,positive,0.927,0.474,joy,70,91,21,2,3,15,3,4,3,5,4,2,2,253
+253,254,S378456,student,K-12,concept explanation,3,18,8,52,6,positive,0.456,0.646,optimism,72,81,9,1,3,7,5,4,2,4,4,2,3,254
+254,255,S940951,student,undergraduate,writing feedback,2,33,15,79,3,positive,0.803,0.796,anticipation,31,36,5,5,2,6,4,3,4,4,5,4,3,255
